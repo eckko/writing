@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "folder": "sample",
+      "id": "sample",
+      "title": "A Field Guide to Noticing (sample book)",
+      "views": [
+        "read"
+      ]
+    },
+    {
       "folder": "comedy-writing-secrets",
       "id": "comedy-writing-secrets",
       "title": "Comedy Writing Secrets",
