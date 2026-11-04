@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "folder": "sample",
+      "id": "sample",
+      "title": "A Field Guide to Noticing (sample book)",
+      "views": [
+        "read"
+      ]
+    }
+  ]
+}
