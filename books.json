@@ -15,6 +15,14 @@
       "views": [
         "read"
       ]
+    },
+    {
+      "folder": "improvisation-for-the-theater",
+      "id": "improvisation-for-the-theater",
+      "title": "Improvisation for the Theater",
+      "views": [
+        "read"
+      ]
     }
   ]
 }
