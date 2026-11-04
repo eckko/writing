@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;700&display=swap");
+
+/* Open Mic: the sign-in screen of the Writers' Room subject.
+   Dark brick wall, an amber spotlight and a microphone. */
+:root {
+  --gate-bg: #14100d;
+  --gate-fg: #f4ebdd;
+  --gate-muted: #c9bba8;
+  --gate-button-bg: #f4ebdd;
+  --gate-button-fg: #14100d;
+  --gate-heading-font: "Bebas Neue", Impact, "Arial Narrow", sans-serif;
+  --gate-focus: #f2a93b;
+}
+
+#gate {
+  font-family: "DM Sans", system-ui, sans-serif;
+  background:
+    radial-gradient(ellipse 80% 48% at 50% 0%, rgba(242, 169, 59, .38), rgba(242, 169, 59, 0) 72%),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, .035) 0, rgba(255, 255, 255, .035) 2px, transparent 2px, transparent 44px),
+    #14100d;
+}
+
+#gate .gate-art {
+  min-height: 15rem;
+  margin: 3rem 0 1rem;
+  background: url("mic.svg") center / auto 100% no-repeat;
+}
+
+#gate .gate-body::before {
+  content: "COMEDY \00B7  WRITING \00B7  GAME WRITING";
+  order: -1;
+  color: #f2a93b;
+  font-size: .8125rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+}
+
+#gate h1 {
+  font-size: 4.5rem;
+  line-height: .92;
+  font-weight: 400;
+  letter-spacing: .02em;
+}
+
+#gate .gate-line,
+#gate #unlock .note {
+  color: #c9bba8;
+}
+
+#gate #unlock .go {
+  border-radius: 999px;
+  font-weight: 700;
+}
