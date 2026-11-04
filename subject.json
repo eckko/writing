@@ -1,5 +1,10 @@
 {
-  "title": "Sample subject",
+  "title": "The Writers’ Room",
   "templateTag": "3.1.0",
-  "uiVersion": "1"
+  "uiVersion": "2",
+  "theme": {
+    "css": ".theme/gate.css",
+    "icon": ".theme/icon.svg",
+    "appleTouchIcon": ".theme/apple-touch-icon.png"
+  }
 }
