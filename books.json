@@ -7,6 +7,14 @@
       "views": [
         "read"
       ]
+    },
+    {
+      "folder": "impro",
+      "id": "impro",
+      "title": "Impro",
+      "views": [
+        "read"
+      ]
     }
   ]
 }
