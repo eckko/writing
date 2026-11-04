@@ -1,6 +1,6 @@
 {
   "title": "The Writers’ Room",
-  "templateTag": "3.1.0",
+  "templateTag": "3.2.12",
   "uiVersion": "2",
   "theme": {
     "css": ".theme/gate.css",
