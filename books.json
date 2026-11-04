@@ -1,6 +1,22 @@
 {
   "books": [
     {
+      "folder": "sample",
+      "id": "sample",
+      "title": "A Field Guide to Noticing (sample book)",
+      "views": [
+        "read"
+      ]
+    },
+    {
+      "folder": "how-to-write-funny",
+      "id": "how-to-write-funny",
+      "title": "How to Write Funny",
+      "views": [
+        "read"
+      ]
+    },
+    {
       "folder": "impro",
       "id": "impro",
       "title": "Impro",
