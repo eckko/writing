@@ -7,6 +7,22 @@
       "views": [
         "read"
       ]
+    },
+    {
+      "folder": "impro",
+      "id": "impro",
+      "title": "Impro",
+      "views": [
+        "read"
+      ]
+    },
+    {
+      "folder": "improvisation-for-the-theater",
+      "id": "improvisation-for-the-theater",
+      "title": "Improvisation for the Theater",
+      "views": [
+        "read"
+      ]
     }
   ]
 }
