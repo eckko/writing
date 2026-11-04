@@ -33,6 +33,14 @@
       ]
     },
     {
+      "folder": "the-comic-toolbox",
+      "id": "the-comic-toolbox",
+      "title": "The Comic Toolbox",
+      "views": [
+        "read"
+      ]
+    },
+    {
       "folder": "the-hidden-tools-of-comedy",
       "id": "the-hidden-tools-of-comedy",
       "title": "The Hidden Tools of Comedy",
