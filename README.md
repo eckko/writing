@@ -49,7 +49,6 @@ This is the encrypted counterpart of
     media/*.enc            the reader: encrypted figures, cover, summaries
     quiz/questions.enc     the quiz: all questions, same key
     quiz/media/**/*.enc    the quiz: encrypted pictures, same key
-  sample/                  a tiny sample book (delete it for a real subject)
   .github/workflows/check.yml   runs the template's checks (no tools here)
 ```
 
